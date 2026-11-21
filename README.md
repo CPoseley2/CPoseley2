@@ -28,7 +28,7 @@ A tool for filmmakers, animators, and independent storytellers to organize chara
 
 [Source & documentation](https://github.com/CPoseley2/reference-desk) · [Project overview](https://cposeley2.github.io/reference-desk/)
 
-### [Fair Oaks Soccer Club Team Hub](https://github.com/CPoseley2/Brahma)
+### [Brahma](https://github.com/CPoseley2/Brahma)
 **A community operations prototype for coaches, coordinators, and families.**
 
 A web application for season planning, schedules, equipment, budgets, and family communication. Built with JavaScript, an MVVM architecture, Firebase Authentication, and Cloud Firestore. The board demonstration uses synthetic data to make planning scenarios easier to evaluate.
